@@ -3,7 +3,7 @@
 //1: import inquirer 
 import inquirer from "inquirer";
 
-//2: create a oblect of rate of currency with base dollar 
+//2: create a object of rate of currency with base dollar 
 
 console.log(`\n\t\t\t\t\t\t\tcurency converter\n `);
 
